@@ -8,8 +8,7 @@ var keyLine = null;
 var keyLineIndex = 13;
 var sumArr = [];
 
-// States are in same order as given in csv file. If we change the order then code will break.
-// have to add more code on that
+
 var state = ['Andhra Pradesh', 'Karnataka', 'Kerala', 'Tamil Nadu'];
 var stateIdx;
 var jsonOilseedData = [];
